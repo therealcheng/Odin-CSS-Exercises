@@ -1,0 +1,13 @@
+.font {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.first {
+  background-color: #000000;
+  color: azure;
+}
+
+.second {
+  background-color: #f0f804;
+}
